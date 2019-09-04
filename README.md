@@ -1,2 +1,4 @@
 # Othello
-Projet de programmation en 3ème année d'école d'ingénieur en informatique à Polytech Marseille. Programmation en C d'un jeu d'othello en mode terminal.
+Projet d'Algorithmique et programmation de 3A (Polytech Marseille) en C. 
+
+Il s'agit d'un jeu d'othello sous terminal.
